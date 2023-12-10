@@ -1,6 +1,6 @@
-### Hello! I'm Jasper 👀
+### Hello! I'm Undefined 👀
 
-Looking around this desolate place, you wonder if you're in the right place... well, you are! I'm Jasper and this is a new GitHub account for my open-source projects (woah)! This is where everything I tinker on will go to live once it makes it from [Figma](https://www.figma.com/@clickthrow) to reality.
+Looking around this desolate place, you wonder if you're in the right place... well, you are! I'm Undefined and this is a new GitHub account for my open-source projects (woah)! This is where everything I tinker on will go to live once it makes it from [Figma](https://www.figma.com/@clickthrow) to reality.
 
 Some more interesting stuff:
 - I'm currently working on a new Git client (woah)
